@@ -85,7 +85,7 @@
     "eventsource": "^0.2.1",
     "lodash": "^4.0.1",
     "postinstall-build": "^5.0.1",
-    "digitalbits-base": "git+ssh://git@github.com/xdbfoundation/js-digitalbits-base.git",
+    "digitalbits-base": "git+ssh://git@github.com/m04116/js-digitalbits-base.git",
     "toml": "^2.3.0",
     "urijs": "1.18.4"
   }
